@@ -1,0 +1,17 @@
+body
+{
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(52, 11, 145);
+background-image: url(https://i.pinimg.com/736x/ab/18/bb/ab18bb53b53702d48c21298535263287.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+p{
+    font-size: 30px;
+}
+.maaf
+{
+    font-size: 25px;
+    color: rgba(80, 7, 58, 0.727);
+}
